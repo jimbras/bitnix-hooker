@@ -1,6 +1,6 @@
 {
   "name": "bitnix/hooker",
-  "description": "Bitnix Hooker Tools",
+  "description": "Bitnix Webhook Tools",
   "type": "library",
   "license": "AGPL-3.0",
   "authors": [
